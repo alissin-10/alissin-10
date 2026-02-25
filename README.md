@@ -1,16 +1,26 @@
-## Hi there 👋
+## olá, seja bem vindo✌️
 
-<!--
+
 **alissin-10/alissin-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+O que eu gosto de fazer:
+-jogar
+-conversar com amigos
+-assistir filmes
+-escutar musica
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+O que eu gosto de comer:
+-lasanha
+-sorvete
+-macarrão com carne moida
+-etc...
+
+Pontos ruins:
+-pessimista
+-ansioso
+-timido
+
+pontos bons:
+-educado
+-porem devido ao meu pessimismo não sei o que mais colocar.
+
